@@ -44,7 +44,7 @@ body {
 .iconsbox {
   width: 100%;
   display: flex;
-  gap: 15px;
+  gap: 25px;
 }
 .iconsbox i {
   font-size: 40px;
